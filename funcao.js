@@ -214,25 +214,3 @@ function apatar(){
     }
 }
 
-/*  
-    localStorage.clear()
-    localStorage.setItem('titulo0', 'suly');
-    localStorage.setItem('descri0', 'comida');
-    localStorage.setItem('data0', 15);
-    
-    localStorage.setItem('titulo1', 'bebe');
-    localStorage.setItem('descri1', 'banho');
-    localStorage.setItem('data1', 16);
-    
-    localStorage.setItem('titulo2', 'pai');
-    localStorage.setItem('descri2', 'pesca');
-    localStorage.setItem('data2', 14);
-    
-    localStorage.setItem('titulo3', 'mãe');
-    localStorage.setItem('descri3', 'remédio');
-    localStorage.setItem('data3', 13);
-
-    localStorage.removeItem('a')
-    localStorage.setItem('a',4);
-
-*/
