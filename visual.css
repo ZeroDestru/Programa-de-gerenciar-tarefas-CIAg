@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.titulo{
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.button{
+    border: 2px rebeccapurple solid;
+    background-color: royalblue;
+    width: 200px;
+    height: 35px;
+    border-style: dashed;
+
+}
+
+table {
+    border: 2px red solid;
+    width: 100%;
+  }
+  table th {
+    background-color: greenyellow;
+    color: black;
+  }
+  table td {
+    background-color: oldlace;
+    color: black;
+  }
+}
